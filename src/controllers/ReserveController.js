@@ -1,6 +1,6 @@
 import Reserve from '../models/Reserve';
 import User from '../models/Reserve';
-import House from '..models/House';
+import House from '../models/House';
 
 class ReserveController {
   async index(req, res) {
